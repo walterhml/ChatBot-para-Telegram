@@ -1,6 +1,6 @@
 import telebot
 
-CHAVE_API = "COLOQUE AQUI SUA CHAVE API"
+CHAVE_API = "Tirei por segurança ao rodar o bot crie um para você e coloque aqui"
 
 bot = telebot.TeleBot(CHAVE_API)
 
